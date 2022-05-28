@@ -1,4 +1,4 @@
-# boletim-eapv-06
+# boletim-eapv-01
 Scripts
 Boletim de Evento Adverso Pos Vacinação (EAPV)
-06 - Semana 06
+1 de 2022
